@@ -12,7 +12,7 @@ function App() {
           <h2>Opened:</h2>
           <span>06/16/2025</span>
 
-          <h2>Days in Business</h2>
+          <h2>Months in Business</h2>
 
           <h1>{` ${differenceInMonths(new Date(), new Date(2025, 5, 16))} Months`}</h1>
         </div>
