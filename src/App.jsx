@@ -10,7 +10,7 @@ function App() {
           <h1> Upstate Kosher Rentals</h1>
 
           <h2>Opened:</h2>
-          <span>06/16/2025</span>
+          <h1>06/16/2025</h1>
 
           <h2>Months in Business</h2>
 
@@ -21,7 +21,7 @@ function App() {
           <h1> JWPro Software Solutions</h1>
 
           <h2>Opened:</h2>
-          <span>07/07/2026</span>
+          <h1>07/07/2026</h1>
 
           <h2>Days in Business</h2>
 
