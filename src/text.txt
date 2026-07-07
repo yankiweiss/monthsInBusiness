@@ -1,0 +1,2 @@
+Description how to check from the day it has been opened until today how many days it is.
+
